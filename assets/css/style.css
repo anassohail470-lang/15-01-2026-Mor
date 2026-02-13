@@ -1,8 +1,4 @@
-div {
-    background-color: antiquewhite;
-    width: 100%;
-    height: 60px;
-}
+
 .position-box1{
     width: 400px;
     height: 400px;
@@ -23,5 +19,26 @@ div {
     background-color:darkcyan;
     position: absolute;
     right: 10px;
+    left: 200px;
     top: 100px;
+}
+
+.p-img1{
+    width: 500px;
+    position: absolute;
+    
+}
+
+.p-img2{
+    width: 200px;
+    position: absolute;
+    right: 50px;
+    bottom: 40px;
+}
+
+.p-parent{
+    background-color: #181818;
+    width: 500px;
+    height: 600px;
+    position: relative;
 }
