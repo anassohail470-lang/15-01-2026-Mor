@@ -8,3 +8,9 @@ ________________________________________________________________________________
 
 # FIGMA VILLAGE CHEF WEBSITE DESIGN 
 https://www.figma.com/design/mAD5m9160hzDWW1BZOZZLj/Food-Website-UI--Community-?node-id=0-1&p=f&t=cHSj6lxeNvBKwEEl-0
+
+______________________________________________________________________________________
+# FIGMA BAKERY WEBSITE DESIGN 
+https://www.figma.com/design/4wXwsTkU65wCRG3GjMA0ND/Bakery-Website-Ui--Community-?node-id=0-1&p=f&t=lipbz7CaNdLAu4Lu-0
+
+______________________________________________________________________________________
