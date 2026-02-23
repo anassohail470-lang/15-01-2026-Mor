@@ -57,6 +57,7 @@ body{
 
     --bs-btn-active-bg: var(--btn-active-primary);
     --bs-btn-active-border-color: var(--btn-active-primary);
+    
 }
 
 .header-learn-more {
