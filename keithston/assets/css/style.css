@@ -1,20 +1,48 @@
-:root{
-    --text-sub-heading:#E9BD8C;
+:root {
+    --text-sub-heading: #E9BD8C;
+    --btn-primary: #933C24;
+    --btn-hover-primary: #83321c;
+    --btn-active-primary: #742f1d;
 }
 
-.h-heading{
+body {
+    font-family: "Inter";
+}
+
+.h-heading {
     font-family: "Sansita Swashed";
 }
-.header-section{
+
+.header-section {
     background-image: url("../images/header.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
-    
+
 }
-.h-sub-heading{
+
+.h-sub-heading {
     color: var(--text-sub-heading);
     font-family: "Inter";
     font-size: 1.4rem;
+}
+
+.btn-primary {
+    --bs-btn-bg: var(--btn-primary);
+    --bs-btn-border-color: var(--btn-primary);
+
+    --bs-btn-hover-bg: var(--btn-hover-primary);
+    --bs-btn-hover-border-color: var(--btn-hover-primary);
+
+    --bs-btn-active-bg: var(--btn-active-primary);
+    --bs-btn-active-border-color: var(--btn-active-primary);
+}
+
+.header-learn-more {
+    color: var(--text-sub-heading);
+    text-decoration: none;
+    font-weight: 600;
+    
+
 }
