@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 :root {
     --text-sub-heading: #E9BD8C;
     --btn-primary: #933C24;
@@ -9,7 +10,19 @@ body {
     font-family: "Inter";
 }
 
-.h-heading {
+
+
+:root{
+    --text-sub-heading:#E9BD8C;
+    --btn--primary:#933C24;
+    --btn--hover--primary: #752611;
+    --btn--active--primary: #260b04;
+}
+body{
+    font-family: "Inter";
+}
+.h-heading{
+>>>>>>> Stashed changes
     font-family: "Sansita Swashed";
 }
 
@@ -21,8 +34,15 @@ body {
     background-position: bottom;
 
 }
+<<<<<<< Updated upstream
 
 .h-sub-heading {
+=======
+.button-color{
+--bs--
+}
+.h-sub-heading{
+>>>>>>> Stashed changes
     color: var(--text-sub-heading);
     font-family: "Inter";
     font-size: 1.4rem;
